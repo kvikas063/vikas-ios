@@ -40,12 +40,12 @@ section {
 }
 
 section h2 {
-  color: #f39c12; /* Gold color for section headers */
+  color: #cbf414; /* Gold color for section headers */
 }
 
 /* Links */
 a {
-  color: #f39c12; /* Gold link color */
+  color: #49aff3; /* Gold link color */
 }
 
 a:hover {
@@ -54,9 +54,10 @@ a:hover {
 
 /* Footer Styles */
 footer {
-  background: #3498db;
+  background: #808b93;
   text-align: center;
   margin-top: 20px;
+  padding: 5px;
   font-size: 0.9em;
   border-radius: 5px; /* Rounded corners */
 }
@@ -68,8 +69,8 @@ footer {
 }
 
 .skill-item {
-  flex: 0 1 30%; /* Adjusts the width to 30% */
-  background: #3498db; /* Background color for skill items */
+  flex: 0 1 20%; /* Adjusts the width to 30% */
+  background: #3ac556; /* Background color for skill items */
   color: #fff; /* White text */
   margin: 10px 0; /* Space between items */
   padding: 10px; /* Padding for each skill box */
@@ -79,7 +80,7 @@ footer {
 }
 
 .skill-item:hover {
-  background: #2980b9; /* Darker shade on hover */
+  background: #9cd7ac; /* Darker shade on hover */
 }
 
 /* Responsive Styles for Skills */
@@ -103,7 +104,7 @@ footer {
 
 /* Experience Card */
 .experience-card {
-  background: #3498db; /* White background for cards */
+  background: #3ac556; /* White background for cards */
   margin: 15px;
   padding: 20px;
   border-radius: 8px; /* Rounded corners */
